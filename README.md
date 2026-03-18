@@ -1,2 +1,1 @@
-# 4d-example-MarianMT
-MarianMT in CT2
+## [Helsinki-NLP/opus-mt-en-fr](https://huggingface.co/Helsinki-NLP/opus-mt-en-fr)
