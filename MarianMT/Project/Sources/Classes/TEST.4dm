@@ -70,8 +70,6 @@ Function response($ChatCompletionsResult : cs:C1710.AIKit.OpenAIChatCompletionsR
 	
 Function demo()
 	
-	OBJECT SET ENABLED:C1123(*; "pop.@"; False:C215)
-	
 	Form:C1466.error:=""
 	Form:C1466.elements:=[]
 	
