@@ -89,7 +89,7 @@ Function demo()
 	$ChatCompletionsParameters:={}
 	$ChatCompletionsParameters.input:=""
 	$ChatCompletionsParameters.max_length:=200
-	$ChatCompletionsParameters.beam_size:=2  //4
+	$ChatCompletionsParameters.beam_size:=4
 	$ChatCompletionsParameters.formula:=Form:C1466.response
 	$ChatCompletionsParameters.stream:=True:C214
 	
