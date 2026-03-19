@@ -35,3 +35,4 @@ End if
 
 <img width="480" height="159" alt="Screenshot 2026-03-18 at 22 46 51" src="https://github.com/user-attachments/assets/60b2b22b-5311-4d5a-b3ea-8e37430045d5" />
 
+https://miyako.github.io/CTranslate2/translate
