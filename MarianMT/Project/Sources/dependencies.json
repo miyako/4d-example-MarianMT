@@ -7,6 +7,22 @@
 		"ctranslate2": {
 			"github": "miyako/ctranslate2",
 			"version": "latest"
+		},
+		"onnx genai": {
+			"github": "miyako/onnx-genai",
+			"version": "latest"
+		},
+		"tcp": {
+			"github": "miyako/tcp",
+			"version": "latest"
+		},
+		"workers": {
+			"github": "miyako/workers",
+			"version": "latest"
+		},
+		"event": {
+			"github": "miyako/event",
+			"version": "latest"
 		}
 	}
 }
